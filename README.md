@@ -16,7 +16,7 @@ Onde x=(x1,x2,...,xn)x=(x1​,x2​,...,xn​) é o vetor de entrada, e o objeti
 
 O problema do portfólio consiste em alocar recursos financeiros entre diferentes ativos de forma a maximizar o retorno esperado e minimizar o risco associado. Este modelo é fundamental em finanças e investimentos, permitindo que os investidores tomem decisões informadas sobre onde investir seu capital.
 
-## - [Evolução Diferencial](docs/evolucao-diferencial.md): 
+## - Evolução Diferencial: 
 
 A **Evolução Diferencial (DE)** é um algoritmo de otimização baseado em populações, criado por Storn e Price em 1997. Ele é usado principalmente para resolver problemas de otimização contínua e multidimensional, com a vantagem de ser simples e eficiente para funções complexas, sem precisar de derivadas ou gradientes.
 
